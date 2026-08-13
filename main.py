@@ -1,17 +1,3 @@
-"""
-Expense Tracker
----------------
-A simple command-line tool for tracking daily expenses.
-Stores everything in a local JSON file, no database needed.
-
-Examples:
-    python expense_tracker.py add 45000 food --note "lunch with friends"
-    python expense_tracker.py list
-    python expense_tracker.py list --category food
-    python expense_tracker.py summary
-    python expense_tracker.py delete 3
-"""
-
 import json
 import os
 import argparse
