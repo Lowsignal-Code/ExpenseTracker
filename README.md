@@ -56,7 +56,7 @@ By month:
 Clone the repository:
 
 ```bash
-git clone https://github.com/<HoneySpider-Code>/<ExpenseTracker>.git
+git clone https://github.com/<honeyspyder>/<ExpenseTracker>.git
 cd <ExpenseTracker>
 ```
 
